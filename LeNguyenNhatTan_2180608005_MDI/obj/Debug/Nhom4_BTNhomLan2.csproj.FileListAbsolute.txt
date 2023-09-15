@@ -1,0 +1,53 @@
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\bin\Debug\LeNguyenNhatTan_2180608005_MDI.exe.config
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\bin\Debug\LeNguyenNhatTan_2180608005_MDI.exe
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\bin\Debug\LeNguyenNhatTan_2180608005_MDI.pdb
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.AssemblyReference.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.ChildForm.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.DentalPaymentForm.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Form1.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.formSUAGIA.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Properties.Resources.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.GenerateResource.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.CoreCompileInputs.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.exe
+E:\CNPM\lừa dồi\demo tuần 1 LTW\LeNguyenNhatTan_2180608005_MDI\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.pdb
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe.config
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.pdb
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.AssemblyReference.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.ChildForm.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.DentalPaymentForm.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Form1.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.formSUAGIA.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Properties.Resources.resources
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.GenerateResource.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.CoreCompileInputs.cache
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.exe
+E:\CNPM\lừa dồi\demo tuần 1 LTW\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.pdb
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe.config
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.pdb
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.ChildForm.resources
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.DentalPaymentForm.resources
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Form1.resources
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.formSUAGIA.resources
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.exe
+C:\Users\ADMIN\Downloads\Nhom4_BTNhomLan2\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.pdb
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe.config
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.exe
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\bin\Debug\Nhom4_BTNhomLan2.pdb
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.AssemblyReference.cache
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.ChildForm.resources
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.DentalPaymentForm.resources
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Form1.resources
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.formSUAGIA.resources
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\LeNguyenNhatTan_2180608005_MDI.Properties.Resources.resources
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.GenerateResource.cache
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.csproj.CoreCompileInputs.cache
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.exe
+E:\CNPM\lừa dồi\file nộp BT hằng tuần\Nhom4_BTNhomLan2(sửa)\Nhom4_BTNhomLan2\LeNguyenNhatTan_2180608005_MDI\obj\Debug\Nhom4_BTNhomLan2.pdb
