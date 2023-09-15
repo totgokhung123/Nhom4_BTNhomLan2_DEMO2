@@ -356,5 +356,10 @@ namespace LeNguyenNhatTan_2180608005_MDI
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("demo3");
+        }
     }
 }
