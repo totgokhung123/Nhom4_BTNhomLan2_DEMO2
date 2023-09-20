@@ -302,6 +302,12 @@ namespace LeNguyenNhatTan_2180608005_MDI
             
         }
 
+        public int tongTienDemo()
+        {
+            int tong = 0;
+            return tong;
+        }
+
         private void btnTINHTONG_Click(object sender, EventArgs e)
         {
             //siuuuuuuuuuuuuuuuu
