@@ -307,11 +307,21 @@ namespace LeNguyenNhatTan_2180608005_MDI
             int tong = 0;
             return tong;
         }
+        public int demotiepne()
+        {
+            int tong = 0;
+            return tong;
+        }
 
         private void btnTINHTONG_Click(object sender, EventArgs e)
         {
+<<<<<<< Updated upstream
             //siuuuuuuuuuuuuuuuu
             
+=======
+
+                //siuuuuuuuuuuuuuuuu                          
+>>>>>>> Stashed changes
                 lblTongTien.Text = string.Empty;
                 lblTongTien.Text = tongTien().ToString();
         }
