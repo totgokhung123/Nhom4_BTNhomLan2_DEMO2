@@ -310,7 +310,7 @@ namespace LeNguyenNhatTan_2180608005_MDI
 
         private void btnTINHTONG_Click(object sender, EventArgs e)
         {
-                //siuuuuuuuuuuuuuuuu           
+                //siuuuuuuuuuuuuuuuu  cvwdvwevwev         
                 
                 lblTongTien.Text = string.Empty;
                 lblTongTien.Text = tongTien().ToString();
